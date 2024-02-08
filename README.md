@@ -7,10 +7,10 @@ Zeno is an interactive AI evaluation platform for exploring, debugging, and shar
 To receive credit for this lab, show your work to the TA during recitation.
 
 ## Deliverables
-- [ ] Creating a Zeno Account
-- [ ] Create a project and upload existing dataset to the project
-- [ ] Adding the "avg length ratio" Zeno metric to your project
-- [ ] Create 2/3 slices and derive meaningful insights and showcase them to the TA 
+- [x] Creating a Zeno Account
+- [x] Create a project and upload existing dataset to the project
+- [x] Adding the "avg length ratio" Zeno metric to your project
+- [x] Create 2/3 slices and derive meaningful insights and showcase them to the TA 
 
 ## Creating Zeno account
 If you don't have a Zeno account already, create one on Zeno Hub (https://hub.zenoml.com/signup). After logging in to Zeno Hub, generate your API key by clicking on your profile at the top right to navigate to your account page.
